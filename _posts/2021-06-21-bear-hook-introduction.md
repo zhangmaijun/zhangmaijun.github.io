@@ -1,9 +1,9 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: Clang编译捕获工具Bear介绍
+author: maijun
+date: 2021-06-21 21:50:00 +0800
+categories: [静态代码分析, 中间表示生成, 编译命令捕获]
+tags: [编译捕获, Bear]
 math: true
 mermaid: true
 image:
