@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: Maijun                          # the main title
 
-tagline: 关注静态代码分析技术、安全缺陷模式及相关规范   # it will display as the sub-title
+tagline: Focus on static code analysis techniques, security defect patterns, and related security coding specifications   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   个人技术总结梳理
